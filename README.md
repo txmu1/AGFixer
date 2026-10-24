@@ -38,7 +38,7 @@
 | [Antigravity Unlocker](https://github.com/confeden/Antigravity) | **confeden** | Изучение маршрутов, штрафных таймеров и поведения Unlocker |
 | [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | **Flowseal** | Изучение структуры Zapret, службы, стратегий и списков доменов |
 | [FixNovaAntigtavity](https://github.com/NickDevo-o/FixNovaAntigtavity) | **NickDevo-o** | Материалы по настройке Antigravity, сценариям подключения и диагностике |
-| [AGFixer Linux Fork](https://github.com/Lilpanda101/AGFixer) | **Lilpanda101** | Портирование и адаптация логики AGFixer под Linux (systemd, nftables/iptables, SmartDNS) |
+| AGFixer Linux | **Lilpanda101** | Портирование и адаптация логики AGFixer под Linux (systemd, nftables/iptables, SmartDNS) (В следующем обновлении) |
 
 Для клиентских инструкций также использовались официальные материалы:
 
